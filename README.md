@@ -69,3 +69,7 @@ network security, system defense, and secure web development.
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge)](https://www.linkedin.com/in/tajmunnahar1/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge)](https://twitter.com/@TajmunNahar)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge)](https://www.instagram.com/tajmunpookie)
+
