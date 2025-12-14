@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tajmun Nahar Tisha
 
-### 🔐 Cyber Security Enthusiast | CSE Student |Web Developer Learner
+### 🔐 Cyber Security Learner | CSE Student |Web Developer Learner
 
 I am a passionate cybersecurity learner focused on protecting systems, networks, and data.
 Currently pursuing **BSc in Computer Science & Engineering** with strong interest in
@@ -19,6 +19,23 @@ network security, system defense, and secure web development.
  
 
 ## 💼 Work Experience
+
+**Internship - SecureByte
+Jan 2025 - March 2025
+Learning & Implementing The Knowledge Of Cybersecurity .
+
+-Wireshark
+-Computer Networking
+-Penetration Testing
+-Red Teaming
+-Ethical Hacking
+-Enumeration & Recon
+-Exploitation Techniques
+-Nmap
+-Linux
+-Wireless attack
+-Social Engineering
+
 **E-Commerce Assistant** – *Paikarighor*  
 📅 Dec 2022 – Sep 2023  
 
