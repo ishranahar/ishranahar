@@ -61,8 +61,7 @@ Learning & Implementing The Knowledge Of Cybersecurity .
 ## 📜 Certifications
 - Cisco Certified IT Essentials  
 - Cisco Introduction to Cybersecurity  
-- Cybersecurity for Everyone – Coursera  
-- Programming Hero Web Development Course  
+- Cybersecurity for Everyone – Coursera 
 
 ---
 
