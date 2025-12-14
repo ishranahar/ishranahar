@@ -58,12 +58,6 @@ Learning & Implementing The Knowledge Of Cybersecurity .
 
 ---
 
-## 🏆 Honors & Awards
-- **42th Place** – First ACPC  
-  *American International University–Bangladesh*
-
----
-
 ## 📜 Certifications
 - Cisco Certified IT Essentials  
 - Cisco Introduction to Cybersecurity  
