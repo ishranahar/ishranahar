@@ -51,7 +51,7 @@
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,c++,python,html,css,linux,ubuntu,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,linux,ubuntu,mysql,git,github" />
 </p>
 
 ### 🔐 Cyber Security Tools & OS
