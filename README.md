@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science and Engineering Student  
-- 💻 Interested in **Java, Cyber Security, Software Development & Problem Solving**  
+- 💻 Interested in **Web Development,Cyber Security & Machine Learning**  
  
 - 📍 Dhaka, Bangladesh  
 - 📫 Email: **tajmunnahar24@gmail.com**
@@ -51,7 +51,7 @@
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,c++,c++,python,html,css,linux,ubuntu,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,c,c++,python,html,css,linux,ubuntu,mysql,git,github" />
 </p>
 
 ### 🔐 Cyber Security Tools & OS
