@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%" />
 </p>
@@ -50,7 +51,7 @@
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,c++,python,html,css,linux,ubuntu,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,c,c++,c++,python,html,css,linux,ubuntu,mysql,git,github" />
 </p>
 
 ### 🔐 Cyber Security Tools & OS
