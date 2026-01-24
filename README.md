@@ -76,6 +76,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishranahar&theme=tokyonight" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafikulnayem10&layout=compact&theme=tokyonight" />
+</p>
+
+
 ---
 
 ## 📌 Popular Repositories
