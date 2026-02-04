@@ -66,24 +66,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishranahar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishranahar&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishranahar&layout=compact&theme=tokyonight" />
-</p>
-
-
----
-
 ## 📌 Popular Repositories
 
 ⭐ **SkyFlyer**  
