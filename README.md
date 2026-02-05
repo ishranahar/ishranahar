@@ -36,7 +36,7 @@
 </a>
 <a href="https://www.facebook.com/tajmunnahar.tisha.56" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" />
-  </a>
+</a>
 
 <a href="https://twitter.com/tajmunnahar" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" />
