@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science and Engineering Student  
-- 💻 Interested in **Web Development,Cyber Security & Machine Learning**  
+- 💻 Interested in **Web Development, Cyber Security & Machine Learning**  
  
 - 📍 Dhaka, Bangladesh  
 - 📫 Email: **tajmunnahar24@gmail.com**
