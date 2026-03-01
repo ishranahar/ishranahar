@@ -2,7 +2,6 @@
   <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%" />
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=79C0FF&center=true&vCenter=true&width=750&lines=Welcome+To+My+GitHub+Profile+!;Tajmun+Nahar+Tisha" />
 </p>
