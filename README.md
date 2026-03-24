@@ -65,6 +65,14 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishranahar&theme=dark&hide_border=false" /><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishranahar&theme=dark&hide_border=false&layout=compact" />
+</p>
+
 <br/>  
 
 ## 📌 Popular Repositories
