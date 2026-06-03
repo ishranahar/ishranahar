@@ -64,14 +64,17 @@
 </p>
 
 ---
-
+**
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishranahar&theme=dark&hide_border=false" /><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishranahar&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishranahar&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishranahar&theme=tokyonight" />
+</p>
+**
 
 <br/>  
 
