@@ -65,18 +65,25 @@
 
 ---
 **
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishranahar&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajmuunnahartisha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajmuunnahartisha&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishranahar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tajmuunnahartisha&theme=tokyonight" />
 </p>
-**
 
-<br/>  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tajmuunnahartisha&theme=tokyonight" />
+</p>
+  
 
 ## 📌 Popular Repositories
 
