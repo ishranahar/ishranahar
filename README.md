@@ -64,24 +64,24 @@
 </p>
 
 ---
-**
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajmuunnahartisha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajmunnahartisha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajmuunnahartisha&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajmunnahartisha&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tajmuunnahartisha&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tajmunnahartisha&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tajmuunnahartisha&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tajmunnahartisha&theme=tokyonight" />
 </p>
   
 
